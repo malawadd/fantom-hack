@@ -1,13 +1,3 @@
-# Sample Hardhat Project
+# Hawd smart contracts 
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+HawdToken:[0x626A569a8Dc1842eBd60f8D09701973222551Fa0](https://testnet.ftmscan.com/address/0x626A569a8Dc1842eBd60f8D09701973222551Fa0)
