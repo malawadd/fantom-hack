@@ -30,7 +30,7 @@ module.exports = {
   },
   networks: {
     fantom: {
-      url: 'https://rpc.testnet.fantom.network',
+      url: 'https://rpc.ankr.com/fantom_testnet',
       accounts: [process.env.MNENOMIC],
 
     },
